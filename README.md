@@ -28,7 +28,7 @@ News Highlight is a web application that helps people to catch up on the latest 
 * Python
 * Git Hub
 * Terminal
-* you can check my application through : https://pytho-news-highlight.herokuapp.com/
+* you can check my application through : https://github.com/umuhire1evelyne/news_highlight
 
 ## License
 
